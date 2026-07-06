@@ -18,7 +18,7 @@ branch = "main"          # or the default branch you need
 headers = {}  # public repo needs no auth
 
 # ----------------------------
-# 2️⃣  FETCH ZIP ARCHIVE (quickest way to get the whole repo)
+# 2️⃣  FETCH ZIP (quickest way to get the whole repo)
 # ----------------------------
 zip_url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 resp = requests.get(zip_url, headers=headers)
