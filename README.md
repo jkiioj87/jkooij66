@@ -2,8 +2,7 @@
 
 
 
-import zipfile
-import io
+
 t os
 
 # ----------------------------
