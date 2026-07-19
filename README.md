@@ -5,7 +5,7 @@
 
 
 
-# 1️⃣
+
 # ----------------------------
 owner = "OWNE"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"
