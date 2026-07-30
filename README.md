@@ -10,7 +10,6 @@
          # e.g. "torvalds"
         # e.g. "linux"
           # or the default branch you need
-# token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
 headers = {}  # public repo needs no auth
