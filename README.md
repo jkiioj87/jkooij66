@@ -10,7 +10,7 @@
          # e.g. "to
         # e.g. "linux"
           # or the default branch you need
-# token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+# = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
 headers = {}  # public repo needs no auth
 
