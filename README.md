@@ -12,7 +12,7 @@
           # or the default branch you need
 # = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
-headers = {}  # public repo needs no auth
+ {}  # public repo needs no auth
 
 # ----------------------------
 # 2️⃣  FETCH ZIP (quickest way to get the whole repo)
