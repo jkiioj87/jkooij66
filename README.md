@@ -21,7 +21,7 @@ zip_url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 resp = requests.get(zip_url, headers=headers)
 resp.raise_for_status()
 
-# Unpack the zip into a local folder
+#  the zip into a local folder
 zip_bytes = io.BytesIO(resp.content)
 with zipfile.ZipFile(zip_bytes) as z:
     # The zip contains a top‑level folde like "owner-repo-<hash>"
