@@ -11,7 +11,7 @@
         # e.g. "linux"
           # or the default branch you need
 # = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-# = {"Authorization": f"token {token}"}
+# =": f"token {token}"}
  {}  # public repo needs no auth
 
 # ----------------------------
