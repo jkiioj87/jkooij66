@@ -9,7 +9,7 @@
 # ----------------------------
          
         # e.g. "linux"
-          # or the default branch you need
+        default branch you need
 # = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # =": f"token {token}"}
  {}  # lic repo needs no auth
