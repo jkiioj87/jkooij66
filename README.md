@@ -12,7 +12,7 @@
         default branch you need
 # = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # =": f"token {token}"}
- {}  # lic repo needs no auth
+ ic repo needs no auth
 
 # ----------------------------
 # to get the whole repo)
