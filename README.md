@@ -10,7 +10,7 @@
          
         # e.g. "linux"
         default branch you need
-# = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # =": f"token {token}"}
  repo needs no auth
 
