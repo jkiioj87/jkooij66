@@ -12,7 +12,7 @@
         default branch you need
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # =": f"token {token}"}
- eeds no auth
+no auth
 
 # ----------------------------
 # to get the whole repo)
