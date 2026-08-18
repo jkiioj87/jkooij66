@@ -9,7 +9,7 @@
 # ----------------------------
          
         # e.g. "linux"
-        default branch you need
+       fault branch you need
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # =": f"token {token}"}
 no auth
