@@ -11,7 +11,7 @@
         # e.g. "linux"
        fault branch you need
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-: f"token {token}"}
+en {token}"}
  auth
 
 # ----------------------------
