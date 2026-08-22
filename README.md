@@ -12,7 +12,7 @@
        fault branch you need
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 en {token}"}
- auth
+h
 
 # ----------------------------
 # to get the whole repo)
