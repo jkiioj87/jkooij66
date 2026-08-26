@@ -14,7 +14,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXX"
 n}"}
 h
 
-# ----------------------------
+-------------------------
 the whole repo)
 # ----------------------------
 zip_url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
