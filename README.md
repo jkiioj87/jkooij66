@@ -11,8 +11,7 @@
         # e.g. "linux"
        fault branch you need
 XXXXXXXXXXXXXXXXXXXXXXXXXXX"
-n}"}
-h
+n}"h
 
 -------------------------
 the whole repo)
