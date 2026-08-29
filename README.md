@@ -18,7 +18,7 @@ the whole repo)
 # ----------------------------
 zip_url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 resp = requests.get(zip_url, headers=headers)
-resp.raise_for_status()
+p.raise_for_status()
 
 #  the zip into a local folder
 zip_bytes = io.BytesIO(resp.content)
