@@ -10,7 +10,7 @@
          
         # e.g. "linux"
        fault branch you need
-XXXXXXXXXXXXXXXXXXXXXXXXXXX"
+XXXXXXXXXXXXXXXXXXXXXXXX"
 
 
 -------------------------
