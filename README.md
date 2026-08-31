@@ -9,7 +9,7 @@
 -----------------------
          
         # e.g. "linux"
-       fault branch you need
+      ult branch you need
 XXXXXXXXXXXXXXXXXXXXXXXX"
 
 
