@@ -16,7 +16,7 @@ XXXXXXXXXXXXXXXXXXXXXXXX"
 -------------------------
  whole repo)
 # ----------------------------
-zip_url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
+ip_url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 resp = requests.get(zip_url, headers=headers)
 se_for_status()
 
