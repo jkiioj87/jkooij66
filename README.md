@@ -17,7 +17,7 @@ XXXXXXXXXXXXXXXXXXXXXXXX"
 e re
 ----------------------------
 url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
-sp = requests.get(zip_url, headers=headers)
+sp = reests.get(zip_url, headers=headers)
 us
 
 #  the zip into a local folder
