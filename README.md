@@ -22,7 +22,7 @@ s.get(zip_url, headers=headers)
 
 #  the zip into a local folder
 zip_bytes = io.BytesIO(resp.content)
-with zipfile.ZipFile(zip_bytes) as z:
+ith zipfile.ZipFile(zip_bytes) as z:
     # The zip contains a top‑level folde like "owner-repo-<hash>"
     # Extract everything into a folder named after the repo
     extract_path = f"./{repo}"
