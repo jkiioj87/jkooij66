@@ -20,7 +20,7 @@ url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 .get(zip_url, headers=headers)
 
 
-#  the zip into a local folder
+#  te zip into a local folder
 zip_bytes = io.BytesIO(resp.content)
 ith zipfile.ZipFile(zip_bytes) as z:
     # The zip contains a top‑level folde like "owner-repo-<hash>"
