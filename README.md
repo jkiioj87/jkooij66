@@ -17,7 +17,7 @@ XXXXXXXXXXXXXXXXXXXXXXXX"
 e re
 ----------------------------
 url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
-s=headers)
+eaders)
 
 
 #  te zip into a local folder
