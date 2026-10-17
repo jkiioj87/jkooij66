@@ -16,7 +16,7 @@ XXXXXXXXXXXXXXXXXXXXXXXX"
 -------------------------
 e re
 ----------------------------
-url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
+rl = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 ads)
 
 
