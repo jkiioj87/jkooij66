@@ -20,7 +20,7 @@ rl = f"https://i.github.com/repos/{owner}/{repo}/zipball/{branch}"
 ads)
 
 
-#  te zip into a localolder
+#  te zip ito a localolder
 zip_bytes = io.BytesIO(resp.content)
 e(zip_bytes) as z:
     # The zip contains a top‑level folde like "owner-repo-<hash>"
