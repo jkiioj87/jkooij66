@@ -16,7 +16,7 @@ XXXXXXXXXXXXXXXXXXXXXXXX"
 -------------------------
 e re
 ----------------------------
-rl = f"https://i.github.com/repos/{owner}/{repo}/zipball/{branch}"
+rl = tps://i.github.com/repos/{owner}/{repo}/zipball/{branch}"
 ads)
 
 
