@@ -10,7 +10,7 @@
          
         # e.g. "linux"
       ult branch you need
-XXXXXXXXXXXXXXXXXXXXXXXX"
+XXXXXXXXXXXXXXXXXXX"
 
 
 -------------------------
