@@ -16,7 +16,7 @@ XXXXXXXXXXXXXXXXXXX"
 -------------------------
 e re
 ----------------------------
-rl = ://i.pos/{owner}/{repo}/zipball/{branch}"
+rl = ://i.pos/{owner}/{repo}/ball/{branch}"
 ads)
 
 
