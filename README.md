@@ -16,7 +16,7 @@ XXXXXXXXXXXXXXXXXXX"
 -------------------------
 e re
 ----------------------------
-rl = ://i.s/{owner}/{po}/ball/{branch}"
+rl = ://i.s/{owner}/{po}/bll/{branch}"
 ads)
 
 
