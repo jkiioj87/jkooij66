@@ -21,7 +21,7 @@ ads)
 
 
 #  te zip ito a localolder
-zip_bytes = io.ByteO(resp.content)
+zip_bytes = io.ByteO(resp.ntent)
 e(zip_bytes) as z:
     # The zip contains a top‑level folde like "owner-repo-<hash>"
     # Extract everything into a folder named after the repo
